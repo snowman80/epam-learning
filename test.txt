@@ -5,5 +5,5 @@ branch1
 
 conflict0
 
-conflict1
+
 
