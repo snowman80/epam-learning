@@ -4,5 +4,5 @@ second commit
 branch1
 
 conflict0
-
+rebase
 
